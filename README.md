@@ -1,6 +1,1 @@
-"# list-test" 
-"# list-test" 
-"# list-test" 
-"# list-test" 
-"# list-test" 
-"# list-test" 
+''# list練習題''
